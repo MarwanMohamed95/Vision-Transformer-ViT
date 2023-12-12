@@ -14,4 +14,4 @@ This repository contains a PyTorch implementation of Vision Transformer (ViT) fo
 The model achieved state-of-the-art performance on benchmark datasets, demonstrating the effectiveness of ViT in image classification tasks.
 
 ## Acknowledgments:
-This implementation is based on the original ![ViT paper by Dosovitskiy et al.] (https://arxiv.org/abs/2010.11929) and incorporates PyTorch's powerful functionalities.
+This implementation is based on the original !(ViT paper by Dosovitskiy et al.) [https://arxiv.org/abs/2010.11929] and incorporates PyTorch's powerful functionalities.
